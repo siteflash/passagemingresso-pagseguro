@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: passagemingresso PagSeguro v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-24 13:14-0300\n"
+"Last-Translator: André L Ol <andre@andrewebaster.com.br>\n"
+"Language-Team: André L Oliveira <andre@andrewebmaster.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ctpagseguro
+#. translators: plugin header field 'Name'
+#: passagemingresso-pagseguro.php:0
+msgid "passagemingresso PagSeguro"
+msgstr "passagemingresso PagSeguro"
+
+# @ ctpagseguro
+#. translators: plugin header field 'PluginURI'
+#: passagemingresso-pagseguro.php:0
+msgid "https://github.com/siteflash/passagemingresso-pagseguro.git"
+msgstr "https://github.com/siteflash/passagemingresso-pagseguro.git"
+
+# @ ctpagseguro
+#. translators: plugin header field 'Description'
+#: passagemingresso-pagseguro.php:0
+msgid "PagSeguro Gateway para passagemingresso"
+msgstr "PagSeguro Gateway para passagemingresso"
+
+# @ ctpagseguro
+#. translators: plugin header field 'Author'
+#: passagemingresso-pagseguro.php:0
+msgid "Andre Webmaster, SITEFLASH.S.A"
+msgstr "Andre Webmaster, SITEFLASH.S.A"
+
+# @ ctpagseguro
+#. translators: plugin header field 'AuthorURI'
+#: passagemingresso-pagseguro.php:0
+msgid "http://andrewebmaster.com.br"
+msgstr "http://andrewebmaster.com.br"
+
+# @ ctpagseguro
+#. translators: plugin header field 'Version'
+#: passagemingresso-pagseguro.php:0
+msgid "1.0"
+msgstr "1.0"
+
+# @ ctpagseguro
+#: passagemingresso-pagseguro.php:21
+#, php-format
+msgid ""
+"PassagemIngresso PagSeguro Gateway depends on the last version of %s to work!"
+msgstr ""
+"PassagemIngresso PagSeguro gateway depende da última versão do %s para o "
+"trabalho!"
+
+# @ ctpagseguro
+#: passagemingresso-pagseguro.php:67
+msgid "Settings"
+msgstr "Configurações"
+
+# @ ctpagseguro
+#: payment-pagseguro.php:44
+msgid ""
+"PagSeguro Gateway works by sending the user to PagSeguro to enter their "
+"payment information."
+msgstr ""
+"PagSeguro gateway funciona enviando ao usuário PagSeguro para inserir suas "
+"informações de pagamento."
+
+# @ ctpagseguro
+#: payment-pagseguro.php:54
+msgid "Email"
+msgstr "E-mail"
+
+# @ ctpagseguro
+#: payment-pagseguro.php:55
+msgid "Token"
+msgstr "Token"
+
+# @ ctpagseguro
+#: payment-pagseguro.php:198
+msgid "The selected currency is not supported by this payment method."
+msgstr "A moeda selecionada não é suportada por este método de pagamento."
+
+# @ ctpagseguro
+#: payment-pagseguro.php:205
+msgid "Event"
+msgstr "Eventos"
